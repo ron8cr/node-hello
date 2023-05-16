@@ -1,12 +1,10 @@
 
+![container-banner](https://github.com/ron8cr/node-hello/assets/124076577/31c3f11d-33b4-4532-92be-0cae4e9b6ce8)
 
 # Node Hello Application Deployment Project
 
 ## Repo Structure
-
-├── app <-- app files/directories and Dockerfile go here. Docker image already pushed to public Dockerhub registry.
-├── k8s-manifest
-│   └── microservice.yml <-- only this single file needed to deploy your microservice to Kubernetes.
+![Screen Shot 2023-05-16 at 4 26 15 PM](https://github.com/ron8cr/node-hello/assets/124076577/57d063d6-6f32-4ecc-b9ef-aec5ea5fbe24)
 
 Dockerhub registry path: https://hub.docker.com/r/rohanshinde08/node-hello
 Docker Pull Command
